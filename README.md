@@ -1,0 +1,2 @@
+# PyQt
+My PyQt playground
